@@ -60,6 +60,7 @@ button {
     #body2 {
         width: 300px;
         height: 360px;
+        margin-bottom: auto;
     }
 }
 
