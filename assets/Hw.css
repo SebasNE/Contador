@@ -58,7 +58,8 @@ button {
         background-position: calc(800px);
     }
     #body2 {
-        justify-content: center;
+        width: 300px;
+        height: 360px;
     }
 }
 
