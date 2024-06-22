@@ -52,6 +52,13 @@ button {
     border: 1px solid rgba(255, 255, 255, 0.427);
 }
 
+@media (max-width: 450px) {
+    body {
+        background-size: 480%;
+        background-position: calc(800px);
+    }
+}
+
 #save-el {
     margin-top: 50px;
 }
