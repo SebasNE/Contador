@@ -57,6 +57,9 @@ button {
         background-size: 480%;
         background-position: calc(800px);
     }
+    #body2 {
+        justify-content: center;
+    }
 }
 
 #save-el {
